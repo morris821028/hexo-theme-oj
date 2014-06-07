@@ -1,0 +1,46 @@
+menu:
+  Home: /
+  Contact Us: /
+  TOOLS on the Old UVa OJ Site: /
+  ACM-ICPC Live Archive: /
+
+menu2:
+  My uHunt: /
+  Browse Problems: /browse
+  Quick access, info and search: /
+  Problemsetters' Credits: /
+  Live Rankings: /
+  Site Statistics: /
+  Contests: /
+  Electronic Board: /
+  Additional Information: /
+  Other Links: /
+
+widgets: 
+	- menu
+
+excerpt_link: Read More
+
+fancybox: true
+
+# 友言评论
+UYUserId:
+
+# cnzz统计
+cnzzId:
+
+# JiaThis分享
+jiathisUUID:
+
+weibo:
+	name:
+	uid:
+	link:
+
+rss: http://xxx.xx/atom.xml
+
+imglogo:
+  enable: true             ## display image logo true/false.
+  src: img/Mdisk.png       ## `.svg` and `.png` are recommended,please put image into the theme folder `/pacman/source/img`.
+favicon: img/M.png   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/pacman/source/img`.     
+apple_icon: img/Mdisk.png ## size:114px*114px,please put image into the theme folder `/pacman/source/img`.
